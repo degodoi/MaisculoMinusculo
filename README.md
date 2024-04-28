@@ -1,3 +1,5 @@
+Caso seu antivírus detecte o executável como potencialmente perigoso, lembre-se de conceder as permissões necessárias para executar o programa sem problemas. Isso é comum devido às políticas de segurança dos antivírus em relação a softwares não amplamente reconhecidos.
+
 # MaisculoMinusculo
 O Conversor de Texto é uma aplicação gráfica em Python usando Tkinter. Permite converter texto entre maiúsculas e minúsculas, com opção de copiar o resultado para a área de transferência.
 
